@@ -31,3 +31,18 @@ Consolidar em um único lugar as decisões técnicas e operacionais do ecossiste
    - `flutter analyze`
    - `flutter test`
    - `flutter run`
+
+## Setup de dependências (ambiente Linux)
+
+Para preparar o ambiente com Flutter + toolchain Linux/Web:
+
+```bash
+sudo bash scripts/install-dependencies.sh
+```
+
+Para validar rapidamente o ambiente:
+
+```bash
+bash scripts/check-environment.sh
+```
+
