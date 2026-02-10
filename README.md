@@ -7,6 +7,7 @@ Este repositório, no estado atual, **contém documentação técnica** da solu�
 - [Arquitetura da Solução](docs/arquitetura-vidal-transportes.md)
 - [Status de Teste do App](docs/teste-do-app.md)
 - [Plano de Finalização do App](docs/finalizacao-do-app.md)
+- [Finalização (Estado Atual)](docs/finalizacao.md)
 
 ## Objetivo
 
